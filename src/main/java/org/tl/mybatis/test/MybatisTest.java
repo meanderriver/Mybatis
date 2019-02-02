@@ -26,6 +26,6 @@ public class MybatisTest extends TestCase {
 		WordEntry wordEntry = mapper.getWordByWordName("integrate");
 		
 		System.out.println(wordEntry);
-
+		System.out.println("This branch is hot_fixs");
 	}
 }
